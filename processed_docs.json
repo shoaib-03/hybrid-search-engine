@@ -1,0 +1,39 @@
+[
+  {
+    "id": "docA",
+    "original_text": "Diabetes is a disease that causes high blood sugar. Insulin helps regulate glucose.",
+    "cleaned_text": "diabetes is a disease that causes high blood sugar. insulin helps regulate glucose.",
+    "chunks": [
+      "diabetes is a disease that causes high blood sugar. insulin helps regulate glucose."
+    ],
+    "entities": []
+  },
+  {
+    "id": "docB",
+    "original_text": "Metformin is a common medication for type 2 diabetes.",
+    "cleaned_text": "metformin is a common medication for type 2 diabetes.",
+    "chunks": [
+      "metformin is a common medication for type 2 diabetes."
+    ],
+    "entities": [
+      [
+        "2",
+        "CARDINAL"
+      ]
+    ]
+  },
+  {
+    "id": "docC",
+    "original_text": "Type 2 diabetes involves insulin resistance.",
+    "cleaned_text": "type 2 diabetes involves insulin resistance.",
+    "chunks": [
+      "type 2 diabetes involves insulin resistance."
+    ],
+    "entities": [
+      [
+        "2",
+        "CARDINAL"
+      ]
+    ]
+  }
+]
