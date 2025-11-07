@@ -1,6 +1,0 @@
-streamlit
-pyserini
-faiss-cpu
-sentence-transformers
-datasets
-numpy
